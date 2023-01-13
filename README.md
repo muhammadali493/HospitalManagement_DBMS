@@ -68,6 +68,6 @@ Features
 #### Other options        
         1. View Bills
         
-    You can connect with me on LinkedIn [here](https://www.linkedin.com/in/muhammad-ali285/)
+    Click [here](https://www.linkedin.com/in/muhammad-ali285/) to connect with on LinkedIn.
 
 
