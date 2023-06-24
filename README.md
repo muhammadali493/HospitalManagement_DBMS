@@ -1,8 +1,6 @@
 
 # Hospital Management System
 
-Library Management System
--------------------------
 
     A simple and user friendly Hospital Management System mini project, created using java swing with mysql database, in the Database Management Course.
 
